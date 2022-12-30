@@ -2,6 +2,7 @@ from openpyxl.styles import Font, Border, Side
 from openpyxl import Workbook
 from openpyxl.styles.numbers import FORMAT_PERCENTAGE_00
 
+print(1)
 area_salary_dic = {'Москва': 76970,
                    'Санкт-Петербург': 65286,
                    'Новосибирск': 62254,
